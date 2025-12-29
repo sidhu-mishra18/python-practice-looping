@@ -8,3 +8,4 @@ name = "sudheer"
 #print(name.rfind("c"))
 #print(name.count("e"))
 #print(name.isalpha())
+#indexing --- [start:end:step]
